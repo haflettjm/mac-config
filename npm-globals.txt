@@ -1,0 +1,6 @@
+corepack
+eslint_d
+markdownlint-cli
+npm
+prettier
+stylelint
